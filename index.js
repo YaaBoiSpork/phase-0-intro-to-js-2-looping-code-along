@@ -9,7 +9,7 @@ function writeCards(name) {
     return messages;
 } 
 
-writeCards(name);
+
 
 function countDown(n) {
     while (n >= 0) {
